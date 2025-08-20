@@ -1,2 +1,5 @@
 # Banco-de-Dados-Estacionamento
- Desenvolvimento de um programa em PHP que realizará o controle de um estacionamento, onde ao chegar um veiculo o mesmo deverá ser alocado em uma vaga livre, devendo ser registrado a placa do veiculo e a data e hora de entrada, ao sair deverá ser liberado a vaga e registrar a data e horário da saída do veiculo e calcular quanto tempo ele ficou estacionado, para ser calculado o valor a ser cobrado.
+
+Projeto desenvolvido em 2020 durante o curso técnico em informática. Exercício em PHP e banco de dados para simular controle de estacionamento. Alguns arquivos e funcionalidades não estão completos, mas mantive aqui como registro do aprendizado da época.
+
+O programa em PHP realiza o controle de um estacionamento: ao chegar um veículo, ele é alocado em uma vaga livre e registra a placa e a data/hora de entrada. Ao sair, a vaga é liberada e o sistema registra a data/hora de saída e calcula o tempo de permanência para definir o valor a ser cobrado.
